@@ -1,0 +1,1 @@
+/app/vendor/magento/module-catalog-search/view/adminhtml/web/js/search-engine-comment.js

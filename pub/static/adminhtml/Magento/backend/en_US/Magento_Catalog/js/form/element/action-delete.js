@@ -1,0 +1,1 @@
+/app/vendor/magento/module-catalog/view/adminhtml/web/js/form/element/action-delete.js

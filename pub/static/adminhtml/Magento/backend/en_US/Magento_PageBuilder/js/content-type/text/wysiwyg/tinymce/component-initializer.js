@@ -1,0 +1,1 @@
+/app/vendor/magento/module-page-builder/view/adminhtml/web/js/content-type/text/wysiwyg/tinymce/component-initializer.js

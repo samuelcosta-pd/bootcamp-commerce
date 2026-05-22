@@ -1,0 +1,1 @@
+/app/vendor/magento/module-page-builder/view/adminhtml/web/js/resource/resize-observer/ResizeObserver.js

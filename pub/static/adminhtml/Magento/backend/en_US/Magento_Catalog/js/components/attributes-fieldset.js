@@ -1,0 +1,1 @@
+/app/vendor/magento/module-catalog/view/adminhtml/web/js/components/attributes-fieldset.js
