@@ -1,0 +1,8 @@
+mysql:
+    type: mysql:10.6
+    disk: 2048
+redis:
+    type: redis:7.0
+opensearch:
+    type: opensearch:2.5
+    disk: 2048

@@ -1,0 +1,8 @@
+name: 'bootcamp'
+type: 'php:8.4'
+build:
+    flavor: none
+relationships:
+    database: "mysql:mysql"
+    redis: "redis:redis"
+    opensearch: "opensearch:opensearch"
